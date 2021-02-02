@@ -1,2 +1,3 @@
 config:
   info: "just for test(config-dev.yml)."
+  version: 2.0
